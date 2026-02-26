@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://localhost:27017/quickcommerce",
+    "jwtSecret": "secret_key_here",
+    "geminiKey": "YOUR_GEMINI_API_KEY"
+}
